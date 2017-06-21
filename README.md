@@ -1,2 +1,2 @@
-# myblog
-this is my blog
+# MyBlog
+这是我的个人博客
